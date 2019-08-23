@@ -1,0 +1,8 @@
+2019-07-31 14:18:50 INFO     rasa.nlu.model  - Starting to train component CountVectorsFeaturizer
+2019-07-31 14:18:50 INFO     rasa.nlu.model  - Finished training component.
+2019-07-31 14:18:50 INFO     rasa.nlu.model  - Starting to train component EmbeddingIntentClassifier
+2019-07-31 14:18:51 INFO     rasa.nlu.classifiers.embedding_intent_classifier  - Accuracy is updated every 10 epochs
+Epochs: 100%|¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 300/300 [00:12<00:00, 23.54it/s, loss=0.009, acc=1.000]
+2019-07-31 14:19:04 INFO     rasa.nlu.classifiers.embedding_intent_classifier  - Finished training embedding classifier, loss=0.009, train accuracy=1.000in accuracy=1.000
+2019-07-31 14:19:04 INFO     rasa.nlu.model  - Finished training component.
+2019-07-31 14:19:04 INFO     rasa.nlu.model  - Successfully saved model into 'C:\Users\SnP\AppData\Local\Temp\tmp0s1ag9up\nlu'

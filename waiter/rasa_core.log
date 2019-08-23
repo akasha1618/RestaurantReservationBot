@@ -1,0 +1,135 @@
+2019-08-06 13:03:54,995 [ERROR]  Exception occurred while handling uri: 'http://0504bd0f.ngrok.io/favicon.ico'
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /favicon.ico not found
+2019-08-06 13:04:02,900 [ERROR]  Exception occurred while handling uri: 'http://0504bd0f.ngrok.io/'
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-08-06 13:04:34,633 [ERROR]  Exception occurred while handling uri: 'http://0504bd0f.ngrok.io/'
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-08-06 13:04:51,834 [ERROR]  Exception occurred while handling uri: 'http://0504bd0f.ngrok.io/'
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-08-06 13:04:52,552 [ERROR]  Exception occurred while handling uri: 'http://0504bd0f.ngrok.io/favicon.ico'
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /favicon.ico not found
+2019-08-06 14:01:30,267 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/'
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-08-06 14:01:30,458 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/favicon.ico'
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /favicon.ico not found
+2019-08-08 14:30:42,867 [ERROR]  Exception occurred while handling uri: 'http://8d78102e.ngrok.io/favicon.ico'
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /favicon.ico not found
+2019-08-08 14:31:06,197 [ERROR]  Exception occurred while handling uri: 'http://8d78102e.ngrok.io/'
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-08-08 14:31:10,274 [ERROR]  Exception occurred while handling uri: 'http://8d78102e.ngrok.io/'
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-08-08 14:31:14,199 [ERROR]  Exception occurred while handling uri: 'http://8d78102e.ngrok.io/'
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-08-08 14:31:31,834 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/'
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-08-08 14:31:31,989 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/favicon.ico'
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /favicon.ico not found
+2019-08-08 15:14:34,433 [ERROR]  Exception occurred while handling uri: 'http://8d78102e.ngrok.io/'
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-08-08 15:18:49,928 [ERROR]  Exception occurred while handling uri: 'http://8d78102e.ngrok.io/'
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\python37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
